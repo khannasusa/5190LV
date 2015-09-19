@@ -1,0 +1,6 @@
+[My Computer]
+My Computer = "192.168.222.137"
+
+[RT cRIO Target]
+RT cRIO Target = "10.51.90.2"
+

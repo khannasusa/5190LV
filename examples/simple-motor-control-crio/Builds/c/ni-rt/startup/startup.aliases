@@ -1,0 +1,5 @@
+[My Computer]
+My Computer="192.168.222.137"
+
+[RT cRIO Target]
+RT cRIO Target="localhost"
